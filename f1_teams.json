@@ -3,110 +3,80 @@
     "id": 1,
     "name": "McLaren",
     "country": "United Kingdom",
-    "drivers": [
-      "Lando Norris",
-      "Oscar Piastri"
-    ],
+    "drivers": ["Lando Norris", "Oscar Piastri"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(1).png"
   },
   {
     "id": 2,
     "name": "Mercedes",
     "country": "Germany",
-    "drivers": [
-      "George Russell",
-      "Kimi Antonelli"
-    ],
+    "drivers": ["George Russell", "Kimi Antonelli"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(2).png"
   },
   {
     "id": 3,
     "name": "Ferrari",
     "country": "Italy",
-    "drivers": [
-      "Charles Leclerc",
-      "Lewis Hamilton"
-    ],
+    "drivers": ["Charles Leclerc", "Lewis Hamilton"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(3).png"
   },
   {
     "id": 4,
     "name": "Red Bull Racing",
     "country": "Austria",
-    "drivers": [
-      "Max Verstappen",
-      "Isack Hadjar"
-    ],
+    "drivers": ["Max Verstappen", "Isack Hadjar"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(4).png"
   },
   {
     "id": 5,
     "name": "Racing Bulls",
     "country": "Italy",
-    "drivers": [
-      "Liam Lawson",
-      "Arvid Lindblad"
-    ],
+    "drivers": ["Liam Lawson", "Arvid Lindblad"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(5).png"
   },
   {
     "id": 6,
     "name": "Alpine",
     "country": "France",
-    "drivers": [
-      "Pierre Gasly",
-      "Franco Colapinto"
-    ],
+    "drivers": ["Pierre Gasly", "Franco Colapinto"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(6).png"
   },
   {
     "id": 7,
     "name": "Haas F1 Team",
     "country": "United States",
-    "drivers": [
-      "Esteban Ocon",
-      "Oliver Bearman"
-    ],
+    "drivers": ["Esteban Ocon", "Oliver Bearman"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(7).png"
   },
   {
     "id": 8,
     "name": "Audi",
     "country": "Germany",
-    "drivers": [
-      "Nico Hulkenberg",
-      "Gabriel Bortoleto"
-    ],
+    "drivers": ["Nico Hulkenberg", "Gabriel Bortoleto"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(8).png"
   },
   {
     "id": 9,
     "name": "Williams",
     "country": "United Kingdom",
-    "drivers": [
-      "Carlos Sainz",
-      "Alexander Albon"
-    ],
+    "drivers": ["Carlos Sainz", "Alexander Albon"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(9).png"
   },
   {
     "id": 10,
     "name": "Aston Martin",
     "country": "United Kingdom",
-    "drivers": [
-      "Fernando Alonso",
-      "Lance Stroll"
-    ],
+    "drivers": ["Fernando Alonso", "Lance Stroll"],
     "isActive": true,
-    "image": ""
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(10).png"
   }
 ]

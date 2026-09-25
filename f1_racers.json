@@ -6,7 +6,7 @@
     "teamId": 1,
     "team": "McLaren",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(1).png",
     "budget": {
       "monthlyLimit": 1500,
       "notificationThreshold": 0.9,
@@ -20,7 +20,7 @@
     "teamId": 2,
     "team": "Mercedes",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(2).png",
     "budget": {
       "monthlyLimit": 1800,
       "notificationThreshold": 0.85,
@@ -34,7 +34,7 @@
     "teamId": 3,
     "team": "Ferrari",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(3).png",
     "budget": {
       "monthlyLimit": 2000,
       "notificationThreshold": 0.8,
@@ -48,7 +48,7 @@
     "teamId": 4,
     "team": "Red Bull Racing",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(4).png",
     "budget": {
       "monthlyLimit": 2500,
       "notificationThreshold": 0.9,
@@ -62,7 +62,7 @@
     "teamId": 5,
     "team": "Racing Bulls",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(5).png",
     "budget": {
       "monthlyLimit": 1400,
       "notificationThreshold": 0.75,
@@ -76,7 +76,7 @@
     "teamId": 6,
     "team": "Alpine",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(6).png",
     "budget": {
       "monthlyLimit": 1700,
       "notificationThreshold": 0.85,
@@ -90,7 +90,7 @@
     "teamId": 7,
     "team": "Haas F1 Team",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(7).png",
     "budget": {
       "monthlyLimit": 1600,
       "notificationThreshold": 0.8,
@@ -104,7 +104,7 @@
     "teamId": 8,
     "team": "Audi",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(8).png",
     "budget": {
       "monthlyLimit": 1900,
       "notificationThreshold": 0.9,
@@ -118,7 +118,7 @@
     "teamId": 9,
     "team": "Williams",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(9).png",
     "budget": {
       "monthlyLimit": 2100,
       "notificationThreshold": 0.85,
@@ -132,7 +132,7 @@
     "teamId": 10,
     "team": "Aston Martin",
     "status": "Active",
-    "image": "",
+    "image": "https://github.com/YunusM4/WebontwikkelingData26-27/blob/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(10).png",
     "budget": {
       "monthlyLimit": 2200,
       "notificationThreshold": 0.95,
