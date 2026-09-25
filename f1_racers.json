@@ -2,251 +2,181 @@
   {
     "id": 1,
     "name": "Lando Norris",
-    "description": "Lando Norris is a British Formula 1 racing driver who competes for McLaren and is known for his speed and consistent performances.",
-    "nationality": "British",
+    "description": "Lando Norris is a British Formula 1 racing driver who competes for McLaren and is known for his speed, consistency and strong qualifying performances.",
     "driverNumber": 4,
-    "birthDate": "1999-11-13",
     "isActive": true,
+    "birthDate": "1999-11-13",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(1).png",
     "status": "Active",
     "skills": ["Qualifying", "Overtaking", "Wet Weather"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(1).png",
     "team": {
       "id": 1,
       "name": "McLaren",
       "country": "United Kingdom",
-      "drivers": ["Lando Norris", "Oscar Piastri"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(1).png"
-    },
-    "budget": {
-      "monthlyLimit": 1500,
-      "notificationThreshold": 0.9,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(1).png"
     }
   },
   {
     "id": 2,
     "name": "George Russell",
-    "description": "George Russell is a British Formula 1 racing driver competing for Mercedes and is known for his qualifying speed and racecraft.",
-    "nationality": "British",
+    "description": "George Russell is a British Formula 1 racing driver who competes for Mercedes and is known for his qualifying speed and consistent race performances.",
     "driverNumber": 63,
-    "birthDate": "1998-02-15",
     "isActive": true,
+    "birthDate": "1998-02-15",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(2).png",
     "status": "Active",
     "skills": ["Qualifying", "Consistency", "Race Strategy"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(2).png",
     "team": {
       "id": 2,
       "name": "Mercedes",
       "country": "Germany",
-      "drivers": ["George Russell", "Kimi Antonelli"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(2).png"
-    },
-    "budget": {
-      "monthlyLimit": 1800,
-      "notificationThreshold": 0.85,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(2).png"
     }
   },
   {
     "id": 3,
     "name": "Charles Leclerc",
-    "description": "Charles Leclerc is a Monegasque Formula 1 racing driver competing for Ferrari and is especially known for his qualifying performances.",
-    "nationality": "Monegasque",
+    "description": "Charles Leclerc is a Monegasque Formula 1 driver who races for Ferrari and is especially known for his speed and excellent qualifying performances.",
     "driverNumber": 16,
-    "birthDate": "1997-10-16",
     "isActive": true,
+    "birthDate": "1997-10-16",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(3).png",
     "status": "Active",
     "skills": ["Qualifying", "Cornering", "Overtaking"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(3).png",
     "team": {
       "id": 3,
       "name": "Ferrari",
       "country": "Italy",
-      "drivers": ["Charles Leclerc", "Lewis Hamilton"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(3).png"
-    },
-    "budget": {
-      "monthlyLimit": 2000,
-      "notificationThreshold": 0.8,
-      "isActive": false
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(3).png"
     }
   },
   {
     "id": 4,
     "name": "Max Verstappen",
-    "description": "Max Verstappen is a Dutch Formula 1 racing driver competing for Red Bull Racing and is known for aggressive and highly competitive racing.",
-    "nationality": "Dutch",
+    "description": "Max Verstappen is a Dutch Formula 1 racing driver competing for Red Bull Racing and is known for his speed, racecraft and aggressive driving style.",
     "driverNumber": 1,
-    "birthDate": "1997-09-30",
     "isActive": true,
+    "birthDate": "1997-09-30",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(4).png",
     "status": "Active",
     "skills": ["Race Pace", "Overtaking", "Wet Weather"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_33%20(4).png",
     "team": {
       "id": 4,
       "name": "Red Bull Racing",
       "country": "Austria",
-      "drivers": ["Max Verstappen", "Isack Hadjar"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(4).png"
-    },
-    "budget": {
-      "monthlyLimit": 2500,
-      "notificationThreshold": 0.9,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(4).png"
     }
   },
   {
     "id": 5,
     "name": "Liam Lawson",
-    "description": "Liam Lawson is a New Zealand racing driver competing in Formula 1 and has progressed through several international racing categories.",
-    "nationality": "New Zealander",
+    "description": "Liam Lawson is a New Zealand Formula 1 racing driver who has progressed through several international racing categories before reaching Formula 1.",
     "driverNumber": 30,
-    "birthDate": "2002-02-11",
     "isActive": true,
+    "birthDate": "2002-02-11",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(5).png",
     "status": "Active",
     "skills": ["Overtaking", "Adaptability", "Race Starts"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(5).png",
     "team": {
       "id": 5,
       "name": "Racing Bulls",
       "country": "Italy",
-      "drivers": ["Liam Lawson", "Arvid Lindblad"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(5).png"
-    },
-    "budget": {
-      "monthlyLimit": 1400,
-      "notificationThreshold": 0.75,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(5).png"
     }
   },
   {
     "id": 6,
     "name": "Pierre Gasly",
-    "description": "Pierre Gasly is a French Formula 1 driver competing for Alpine and has many years of experience racing at the highest level of motorsport.",
-    "nationality": "French",
+    "description": "Pierre Gasly is a French Formula 1 racing driver who competes for Alpine and has many years of experience at the highest level of motorsport.",
     "driverNumber": 10,
-    "birthDate": "1996-02-07",
     "isActive": true,
+    "birthDate": "1996-02-07",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(6).png",
     "status": "Active",
     "skills": ["Race Pace", "Defending", "Consistency"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(6).png",
     "team": {
       "id": 6,
       "name": "Alpine",
       "country": "France",
-      "drivers": ["Pierre Gasly", "Franco Colapinto"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(6).png"
-    },
-    "budget": {
-      "monthlyLimit": 1700,
-      "notificationThreshold": 0.85,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(6).png"
     }
   },
   {
     "id": 7,
     "name": "Esteban Ocon",
-    "description": "Esteban Ocon is a French Formula 1 racing driver known for his determination, defensive driving and experience in competitive races.",
-    "nationality": "French",
+    "description": "Esteban Ocon is a French Formula 1 racing driver known for his determination, defensive driving and experience in highly competitive races.",
     "driverNumber": 31,
-    "birthDate": "1996-09-17",
     "isActive": true,
+    "birthDate": "1996-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(7).png",
     "status": "Active",
     "skills": ["Defending", "Race Starts", "Consistency"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_34%20(7).png",
     "team": {
       "id": 7,
       "name": "Haas F1 Team",
       "country": "United States",
-      "drivers": ["Esteban Ocon", "Oliver Bearman"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(7).png"
-    },
-    "budget": {
-      "monthlyLimit": 1600,
-      "notificationThreshold": 0.8,
-      "isActive": false
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(7).png"
     }
   },
   {
     "id": 8,
     "name": "Nico Hulkenberg",
     "description": "Nico Hulkenberg is a German Formula 1 racing driver with extensive experience across multiple teams during his long motorsport career.",
-    "nationality": "German",
     "driverNumber": 27,
-    "birthDate": "1987-08-19",
     "isActive": true,
+    "birthDate": "1987-08-19",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(8).png",
     "status": "Active",
     "skills": ["Experience", "Qualifying", "Race Strategy"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(8).png",
     "team": {
       "id": 8,
       "name": "Audi",
       "country": "Germany",
-      "drivers": ["Nico Hulkenberg", "Gabriel Bortoleto"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(8).png"
-    },
-    "budget": {
-      "monthlyLimit": 1900,
-      "notificationThreshold": 0.9,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(8).png"
     }
   },
   {
     "id": 9,
     "name": "Carlos Sainz",
-    "description": "Carlos Sainz is a Spanish Formula 1 racing driver with experience at several teams and is known for intelligent and consistent racing.",
-    "nationality": "Spanish",
+    "description": "Carlos Sainz is a Spanish Formula 1 racing driver with experience at several teams and is known for intelligent and consistent race performances.",
     "driverNumber": 55,
-    "birthDate": "1994-09-01",
     "isActive": true,
+    "birthDate": "1994-09-01",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(9).png",
     "status": "Active",
     "skills": ["Race Strategy", "Consistency", "Technical Feedback"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(9).png",
     "team": {
       "id": 9,
       "name": "Williams",
       "country": "United Kingdom",
-      "drivers": ["Carlos Sainz", "Alexander Albon"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(9).png"
-    },
-    "budget": {
-      "monthlyLimit": 2100,
-      "notificationThreshold": 0.85,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(9).png"
     }
   },
   {
     "id": 10,
     "name": "Fernando Alonso",
     "description": "Fernando Alonso is a Spanish Formula 1 racing driver with extensive experience and a long career competing at the highest level of motorsport.",
-    "nationality": "Spanish",
     "driverNumber": 14,
-    "birthDate": "1981-07-29",
     "isActive": true,
+    "birthDate": "1981-07-29",
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(10).png",
     "status": "Active",
     "skills": ["Experience", "Racecraft", "Race Strategy"],
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/racers/ChatGPT%20Image%2025%20sep%202026%2C%2011_42_35%20(10).png",
     "team": {
       "id": 10,
       "name": "Aston Martin",
       "country": "United Kingdom",
-      "drivers": ["Fernando Alonso", "Lance Stroll"],
       "isActive": true,
-      "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(10).png"
-    },
-    "budget": {
-      "monthlyLimit": 2200,
-      "notificationThreshold": 0.95,
-      "isActive": true
+      "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(10).png"
     }
   }
 ]

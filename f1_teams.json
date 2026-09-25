@@ -3,90 +3,80 @@
     "id": 1,
     "name": "McLaren",
     "country": "United Kingdom",
-    "description": "McLaren is a Formula 1 racing team from the United Kingdom and competes with Lando Norris and Oscar Piastri.",
-    "drivers": ["Lando Norris", "Oscar Piastri"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(1).png"
+    "drivers": ["Lando Norris", "Oscar Piastri"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(1).png"
   },
   {
     "id": 2,
     "name": "Mercedes",
     "country": "Germany",
-    "description": "Mercedes is a Formula 1 constructor representing Germany and has competed successfully in modern Formula 1.",
-    "drivers": ["George Russell", "Kimi Antonelli"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(2).png"
+    "drivers": ["George Russell", "Kimi Antonelli"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(2).png"
   },
   {
     "id": 3,
     "name": "Ferrari",
     "country": "Italy",
-    "description": "Ferrari is an Italian Formula 1 team and one of the most famous and historic constructors in motorsport.",
-    "drivers": ["Charles Leclerc", "Lewis Hamilton"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(3).png"
+    "drivers": ["Charles Leclerc", "Lewis Hamilton"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(3).png"
   },
   {
     "id": 4,
     "name": "Red Bull Racing",
     "country": "Austria",
-    "description": "Red Bull Racing is an Austrian Formula 1 team known for competing at the front of the Formula 1 championship.",
-    "drivers": ["Max Verstappen", "Isack Hadjar"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(4).png"
+    "drivers": ["Max Verstappen", "Isack Hadjar"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_48%20(4).png"
   },
   {
     "id": 5,
     "name": "Racing Bulls",
     "country": "Italy",
-    "description": "Racing Bulls is an Italian Formula 1 racing team that gives talented drivers the opportunity to compete in Formula 1.",
-    "drivers": ["Liam Lawson", "Arvid Lindblad"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(5).png"
+    "drivers": ["Liam Lawson", "Arvid Lindblad"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(5).png"
   },
   {
     "id": 6,
     "name": "Alpine",
     "country": "France",
-    "description": "Alpine is a French Formula 1 constructor competing internationally with its own racing team and technology.",
-    "drivers": ["Pierre Gasly", "Franco Colapinto"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(6).png"
+    "drivers": ["Pierre Gasly", "Franco Colapinto"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(6).png"
   },
   {
     "id": 7,
     "name": "Haas F1 Team",
     "country": "United States",
-    "description": "Haas F1 Team is an American Formula 1 constructor competing against the largest manufacturers and racing teams.",
-    "drivers": ["Esteban Ocon", "Oliver Bearman"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(7).png"
+    "drivers": ["Esteban Ocon", "Oliver Bearman"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(7).png"
   },
   {
     "id": 8,
     "name": "Audi",
     "country": "Germany",
-    "description": "Audi is a German automotive manufacturer competing in Formula 1 with its own factory-backed racing project.",
-    "drivers": ["Nico Hulkenberg", "Gabriel Bortoleto"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(8).png"
+    "drivers": ["Nico Hulkenberg", "Gabriel Bortoleto"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_49%20(8).png"
   },
   {
     "id": 9,
     "name": "Williams",
     "country": "United Kingdom",
-    "description": "Williams is a historic British Formula 1 constructor with a long history of competing in international motorsport.",
-    "drivers": ["Carlos Sainz", "Alexander Albon"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(9).png"
+    "drivers": ["Carlos Sainz", "Alexander Albon"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(9).png"
   },
   {
     "id": 10,
     "name": "Aston Martin",
     "country": "United Kingdom",
-    "description": "Aston Martin is a British Formula 1 team combining motorsport technology with the Aston Martin automotive brand.",
-    "drivers": ["Fernando Alonso", "Lance Stroll"],
     "isActive": true,
-    "image": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(10).png"
+    "drivers": ["Fernando Alonso", "Lance Stroll"],
+    "imageUrl": "https://raw.githubusercontent.com/YunusM4/WebontwikkelingData26-27/main/image/teams/ChatGPT%20Image%2025%20sep%202026%2C%2011_41_50%20(10).png"
   }
 ]
