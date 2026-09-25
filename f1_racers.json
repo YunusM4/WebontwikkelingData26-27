@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Lando Norris",
+    "nationality": "British",
+    "teamId": 1,
+    "team": "McLaren",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 1500,
+      "notificationThreshold": 0.9,
+      "isActive": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "George Russell",
+    "nationality": "British",
+    "teamId": 2,
+    "team": "Mercedes",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 1800,
+      "notificationThreshold": 0.85,
+      "isActive": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charles Leclerc",
+    "nationality": "Monegasque",
+    "teamId": 3,
+    "team": "Ferrari",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 2000,
+      "notificationThreshold": 0.8,
+      "isActive": false
+    }
+  },
+  {
+    "id": 4,
+    "name": "Max Verstappen",
+    "nationality": "Dutch",
+    "teamId": 4,
+    "team": "Red Bull Racing",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 2500,
+      "notificationThreshold": 0.9,
+      "isActive": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Liam Lawson",
+    "nationality": "New Zealander",
+    "teamId": 5,
+    "team": "Racing Bulls",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 1400,
+      "notificationThreshold": 0.75,
+      "isActive": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pierre Gasly",
+    "nationality": "French",
+    "teamId": 6,
+    "team": "Alpine",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 1700,
+      "notificationThreshold": 0.85,
+      "isActive": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Esteban Ocon",
+    "nationality": "French",
+    "teamId": 7,
+    "team": "Haas F1 Team",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 1600,
+      "notificationThreshold": 0.8,
+      "isActive": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nico Hulkenberg",
+    "nationality": "German",
+    "teamId": 8,
+    "team": "Audi",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 1900,
+      "notificationThreshold": 0.9,
+      "isActive": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Carlos Sainz",
+    "nationality": "Spanish",
+    "teamId": 9,
+    "team": "Williams",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 2100,
+      "notificationThreshold": 0.85,
+      "isActive": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Fernando Alonso",
+    "nationality": "Spanish",
+    "teamId": 10,
+    "team": "Aston Martin",
+    "status": "Active",
+    "image": "",
+    "budget": {
+      "monthlyLimit": 2200,
+      "notificationThreshold": 0.95,
+      "isActive": true
+    }
+  }
+]

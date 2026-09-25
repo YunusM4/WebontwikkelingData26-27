@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "McLaren",
+    "country": "United Kingdom",
+    "drivers": [
+      "Lando Norris",
+      "Oscar Piastri"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Mercedes",
+    "country": "Germany",
+    "drivers": [
+      "George Russell",
+      "Kimi Antonelli"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Ferrari",
+    "country": "Italy",
+    "drivers": [
+      "Charles Leclerc",
+      "Lewis Hamilton"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Red Bull Racing",
+    "country": "Austria",
+    "drivers": [
+      "Max Verstappen",
+      "Isack Hadjar"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Racing Bulls",
+    "country": "Italy",
+    "drivers": [
+      "Liam Lawson",
+      "Arvid Lindblad"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Alpine",
+    "country": "France",
+    "drivers": [
+      "Pierre Gasly",
+      "Franco Colapinto"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Haas F1 Team",
+    "country": "United States",
+    "drivers": [
+      "Esteban Ocon",
+      "Oliver Bearman"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Audi",
+    "country": "Germany",
+    "drivers": [
+      "Nico Hulkenberg",
+      "Gabriel Bortoleto"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Williams",
+    "country": "United Kingdom",
+    "drivers": [
+      "Carlos Sainz",
+      "Alexander Albon"
+    ],
+    "isActive": true,
+    "image": ""
+  },
+  {
+    "id": 10,
+    "name": "Aston Martin",
+    "country": "United Kingdom",
+    "drivers": [
+      "Fernando Alonso",
+      "Lance Stroll"
+    ],
+    "isActive": true,
+    "image": ""
+  }
+]
